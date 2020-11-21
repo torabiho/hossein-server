@@ -1,0 +1,18 @@
+[{
+    "school": "University Of Toronto - Canada",
+    "degree": "Master of Information Systems and Design",
+    "graduated": "Year",
+    "description": "Major courses: Project Management, Data Analytics, System Requirements and Architectural Design, Information Architecture"
+},
+{
+    "school": "York University - Canada",
+    "degree": "BA Computer Science (Honours)",
+    "graduated": "Year",
+    "description": "Major courses: Building E-Commerce Systems, Mobile User Interfaces, Database Management Systems, Design and Analysis of Algorithms, Fundamentals of Data Structures"
+},
+{
+    "school": "Central Queensland University - Australia",
+    "degree": "Bachelor of Information Technology (Network Services)",
+    "graduated": "Year",
+    "description": "Major courses: Operating Systems, Networks, Systems Administration, Human-Computer Interaction, Database Application Development, Business Intelligence and Knowledge Management"
+}]
