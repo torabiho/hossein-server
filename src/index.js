@@ -5,7 +5,7 @@ import router from "./lib/routes.js"
 //import { MongoClient } from 'mongodb';
 //import { database } from "./settings.js";
 
-const port = 50080;
+const port = process.env.PORT || 50080;
 const app = express();
 //const mongoUri = `mongodb://${database.host}:${database.port}`;
 
