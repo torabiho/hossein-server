@@ -13,7 +13,7 @@ app.use(express.json())
 app.use(express.urlencoded({ extended: true }))
 app.use(bodyParser.json());
 app.use(cors());
-app.use(router);
+app.use('/api',router);
 // MongoClient.connect(mongoUri, {useNewUrlParser: true, useUnifiedTopology: true})
 // .then(client => {
 //     const db = client.db('portfolio');
